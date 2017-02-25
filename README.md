@@ -1,3 +1,5 @@
+This is a fork because the original step-gh-pages wasn't deploying to my master branch even though I told it to. I'm not sure why.
+
 # Github Pages Deploy
 
 A [wercker](http://wercker.com/) step to deploy to [Github Pages](http://pages.github.com/).
